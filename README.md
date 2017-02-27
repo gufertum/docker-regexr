@@ -1,9 +1,9 @@
 # docker-regexr
 Unofficial docker build of the regexr node app.
 
-Docker hub:
+## Docker hub
 https://hub.docker.com/r/gufertum/regexr/
-Forked repo:
+## Forked repo
 https://github.com/gufertum/regexr
-Base tepo:
+## Base repo
 https://github.com/gskinner/regexr
