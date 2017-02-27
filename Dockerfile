@@ -16,6 +16,4 @@ RUN apk --no-cache add --virtual build-dependencies git ca-certificates && \
 
 EXPOSE 8080
 WORKDIR /opt/regexr
-ENTRYPOINT ["gulp"] ["build"]
-#ADD start.sh /opt/regexr/start.sh
-#CMD /bin/sh /opt/regexr/start.sh
+ENTRYPOINT ["gulp","build"]
