@@ -18,5 +18,3 @@ docker pull gufertum/regexr
 ## Links
 
 * [Docker hub](https://hub.docker.com/r/gufertum/regexr/)
-* [Forked repo](https://github.com/gufertum/regexr)
-* [Base repo](https://github.com/gskinner/regexr)
